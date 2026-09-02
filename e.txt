@@ -1,0 +1,6 @@
+Para utilizarla:
+1. Descargar el archivo .ova
+2. Abrir VirtualBox
+3. Ir a Archivo → Importar servicio virtualizado
+4. Seleccionar el archivo .ova
+5. Importar la máquina
